@@ -1,11 +1,28 @@
 * {
     box-sizing: border-box;
 }
-
+body {
+    color: grey;
+}
 .review {
    background-color: rgb(56, 73, 88); 
    color: white;
    height: 130px;
    text-align: center;
    padding-top: 25px;
+}
+h2 {
+color: black;
+}
+
+.sign { 
+font-size: 23px;
+text-align:center;
+border-bottom: solid 6px black;
+margin:  0 20px 4px;
+}
+
+.contact {
+    border-top: solid 3px black;
+    margin:  0 20px;
 }
