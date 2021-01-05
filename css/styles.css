@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+.review {
+   background-color: rgb(56, 73, 88); 
+   color: white;
+   height: 130px;
+   text-align: center;
+   padding-top: 25px;
+}
