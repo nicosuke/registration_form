@@ -3,6 +3,7 @@
 }
 body {
     color: grey;
+    font-family: 'Merriweather', serif;
 }
 .review {
    background-color: rgb(56, 73, 88); 
@@ -67,7 +68,11 @@ legend {
     border-top: solid black;
     margin:  0 2px;
 }
-
+input:focus {
+    background-color: rgb(157, 228, 154);
+    border-radius: 5px;
+    color: black;
+}
 
 .zip {
   max-width: 150px;  
