@@ -69,10 +69,10 @@ legend {
 .no {
     border: none;
 }    
-}
+
 
        
-}
+
 input:focus {
     background-color: rgb(157, 228, 154);
     border-radius: 5px;
