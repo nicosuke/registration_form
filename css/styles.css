@@ -17,13 +17,18 @@ h2 {
 color: black;
 }
 
+
 .sign { 
 font-size: 16px;
 text-align:center;
-border-bottom: solid 6px black;
-margin:  0 2px 4px;
+border-bottom: solid  black;
+margin:  0 2px 16px;
 }
-
+.yo {
+    border-bottom: 5px solid black;
+    padding-bottom: 15px;
+    margin-bottom: 2px;
+}
 .contact {
     border-top: solid 3px black;
     margin:  0 2px;
@@ -58,15 +63,15 @@ legend {
     font-size: 1.375em;
     font-weight: bold;
     color: black;
-    margin-bottom: 25px;
+    margin-bottom: 5px;
 }
-.info {
-    border:none;
-    margin-top: 30px
+
+.no {
+    border: none;
+}    
 }
-.line {
-    border-top: solid black;
-    margin:  0 2px;
+
+       
 }
 input:focus {
     background-color: rgb(157, 228, 154);
