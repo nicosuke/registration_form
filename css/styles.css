@@ -57,6 +57,7 @@ legend {
     font-size: 1.375em;
     font-weight: bold;
     color: black;
+    margin-bottom: 25px;
 }
 .info {
     border:none;
