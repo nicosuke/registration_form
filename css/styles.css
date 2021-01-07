@@ -53,10 +53,21 @@ select {
   box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
   margin-bottom: 30px;
 }
-
-.form {
-    border-bottom: solid 4px black;   
+legend {
+    font-size: 1.375em;
+    font-weight: bold;
+    color: black;
 }
+.info {
+    border:none;
+    margin-top: 30px
+}
+.line {
+    border-top: solid black;
+    margin:  0 2px;
+}
+
+
 .zip {
   max-width: 150px;  
 }
