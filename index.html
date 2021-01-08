@@ -60,16 +60,15 @@
           <label for="zip">Zip Code</label><br>
           <input type="text" id="zip" name="user_zip" class="zip"><br>
         </div>
-        </fieldset>
+        
       
     
-        <h2>Newsletter</h2>
-        <p>Select the newsletters you would like to <br>
-            receive
-        </p>
+        <legend class="news">Newsletter</legend>
+        <label class="select">Select the newsletters you would like to <br>
+            receive</label>
         
         
-<fieldset class="no">
+<div class="no">
           <input type="checkbox" id="ht" value="interest_html" name="user_interest">
           <label for="ht">HTML News</label>
           <br>
@@ -87,8 +86,9 @@
            <input type="radio" id="text" value="interest_text" name="user_interest">
           <label for="text">Plain text</label>
           <br>
-
-          <label for="comment">Other topics you'd like to hear about</label>
+         </div>
+         
+         <labe for="comment">Other topics you'd like to hear about</label>
           <textarea id="comment" name="user_comment"></textarea>
 
           <button type="submit" class="boton">Sign Up</button>

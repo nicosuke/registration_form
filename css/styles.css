@@ -16,7 +16,15 @@ body {
 h2 {
 color: black;
 }
-
+.news {
+  font-size: large;
+  margin-bottom: 12px;  
+}
+.select {
+font-size: large;
+display: table;
+margin-bottom:24px;
+}
 
 .sign { 
 font-size: 16px;
@@ -68,6 +76,7 @@ legend {
 
 .no {
     border: none;
+    
 }    
 
 
