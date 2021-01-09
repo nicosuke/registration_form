@@ -14,7 +14,7 @@ body {
    padding-top: 35px;
    font-size: 12px;
 }
-h2 {
+h3 {
 color: black;
 }
 .news {
@@ -36,9 +36,10 @@ margin:  0 2px 16px;
 }
 .yo {
     border-bottom: 5px solid black;
-    padding-bottom: 15px;
-    margin-bottom: 2px;
-    font-size: 18px;
+    padding-bottom: 20px;
+    margin-bottom: -16px;
+    font-size: 14px;
+    color: grey;
 }
 .bottom_line {
  border: solid black 1px;   
@@ -80,7 +81,10 @@ legend {
     margin-bottom: 5px;
 }
 .sel {
-    font-size: 17px;
+    font-size: 14px;
+}
+.saigo {
+    font-size: 15px;
 }
 
 .no {
