@@ -88,8 +88,11 @@ legend {
 }   
 
 
-       
-
+textarea:focus {
+    background-color: rgb(157, 228, 154);
+    border-radius: 5px;
+    color: black;      
+}
 input:focus {
     background-color: rgb(157, 228, 154);
     border-radius: 5px;
