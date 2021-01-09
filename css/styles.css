@@ -3,7 +3,8 @@
 }
 body {
     color: grey;
-    font-family: 'Merriweather', serif;
+    font-family: 'Merriweather' serif;
+
 }
 .review {
    background-color: rgb(56, 73, 88); 
@@ -37,6 +38,7 @@ margin:  0 2px 16px;
     border-bottom: 5px solid black;
     padding-bottom: 15px;
     margin-bottom: 2px;
+    font-size: 18px;
 }
 .bottom_line {
  border: solid black 1px;   
@@ -76,6 +78,9 @@ legend {
     font-weight: bold;
     color: black;
     margin-bottom: 5px;
+}
+.sel {
+    font-size: 17px;
 }
 
 .no {
