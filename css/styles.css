@@ -4,7 +4,8 @@
 body {
     color: grey;
     font-family: 'Merriweather', serif;
-
+    max-width: 500px;
+    margin: auto;
 }
 .review {
    background-color: rgb(56, 73, 88); 
