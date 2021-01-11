@@ -98,7 +98,9 @@ legend {
     margin-top: 25px; 
 }   
 
-
+textarea {
+    background-color: rgb(148, 187, 221);
+}
 textarea:focus {
     background-color: rgb(157, 228, 154);
     border-radius: 5px;
